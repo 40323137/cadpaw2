@@ -293,6 +293,8 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="leo.20151006160246.1"><vh>作業任務二</vh></v>
+<v t="leo.20151006160323.1"><vh>作業任務三</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2025,11 +2027,18 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;h1&gt;有關我的作業&lt;/h1&gt;
     &lt;p&gt;40323137郭世欣1041006&lt;/p&gt;		
 &lt;/section&gt;
-	
+
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;第一週９／１７
+    １.將近端程式
+    【Ana_2015】copy至隨身硬碟，開啟
+    start.bat會出現一個網站
+    https://192.168.0.104:8888/tree 
+    ↑是線上練習輸入指令的地方
+    (需要密碼)
+    &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2238,5 +2247,24 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151006160246.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;第一週９／１７
+    ２.至https://github.com/coursemdetw/reveal
+    Download ZIP 將裡面的檔案複製在倉儲內。
+    &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151006160323.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;第一週９／１７
+     ３.建立倉儲分支，以git branch方式建立一個gh-pages分支。
+    &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
