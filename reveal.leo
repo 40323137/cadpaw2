@@ -38,7 +38,6 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151006152747.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -295,6 +294,7 @@
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="leo.20151006160246.1"><vh>作業任務二</vh></v>
 <v t="leo.20151006160323.1"><vh>作業任務三</vh></v>
+<v t="leo.20151006162301.1"><vh>作業任務四</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2025,19 +2025,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;40323137郭世欣1041006&lt;/p&gt;		
+    &lt;p&gt;40323137郭世欣1040924&lt;/p&gt;		
 &lt;/section&gt;
 
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;第一週９／１７
-    １.將近端程式
-    【Ana_2015】copy至隨身硬碟，開啟
-    start.bat會出現一個網站
-    https://192.168.0.104:8888/tree 
-    ↑是線上練習輸入指令的地方
-    (需要密碼)
+    &lt;p&gt;下載leo editor，在github上點選"Download ZIP"。
     &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
@@ -2248,19 +2242,31 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151006160246.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;第一週９／１７
-    ２.至https://github.com/coursemdetw/reveal
-    Download ZIP 將裡面的檔案複製在倉儲內。
+    &lt;h1&gt;作業任務二&lt;/h1&gt;
+    &lt;p&gt;在cmd處，打指令
+  
+   1. pip install 「leo的clone網址」
+   2. pip install pelican markdown
+  
+  
     &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151006160323.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;第一週９／１７
-     ３.建立倉儲分支，以git branch方式建立一個gh-pages分支。
+    &lt;h1&gt;作業任務三&lt;/h1&gt;
+    &lt;p&gt;
+     打開SciTE，將Options的python.properties打開，將python檔的路徑改掉。
+    &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151006162301.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務四&lt;/h1&gt;
+    &lt;p&gt;
+     學習如何將輸入好的leo更新到近端。
     &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
