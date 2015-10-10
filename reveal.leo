@@ -2031,7 +2031,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;下載leo editor，在github上點選"Download ZIP"。
+    &lt;p&gt;下載 leo editor，在github上點選"Download ZIP"。
     &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
