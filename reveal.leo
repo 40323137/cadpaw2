@@ -1677,9 +1677,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 &lt;/div&gt;
 </t>
-<t tx="amd.20150915211351.7">&lt;h1&gt;有關我的作業&lt;/h1&gt;	
-    &lt;p&gt;40323137郭世欣1040924&lt;/p&gt;		
-</t>
+<t tx="amd.20150915211351.7">!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+ 
+     &lt;section&gt;
+
+     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+        &lt;p&gt;40323137郭世欣1040924&lt;/p&gt;		
+     &lt;/section&gt;</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
      &lt;h1&gt;作業任務一&lt;/h1&gt;
      &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
