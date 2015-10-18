@@ -1682,7 +1682,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
  
      &lt;section&gt;
 
-     &lt;h1&gt;學號姓名與日期&lt;/h1&gt;		
+     &lt;h1&gt;有關我的作業&lt;/h1&gt;		
         &lt;p&gt;40323137郭世欣1040924&lt;/p&gt;		
      &lt;/section&gt;</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
