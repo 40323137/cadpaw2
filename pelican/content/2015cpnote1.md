@@ -1,4 +1,4 @@
-Title: 2015 計算機程式 Jupyter
+Title: 2015  Jupyter
 Date: 2015-09-19 21:41
 Modified: 2015-09-19 21:41
 Category: Python

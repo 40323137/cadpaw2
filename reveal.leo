@@ -295,7 +295,7 @@
 <v t="leo.20151006160246.1"><vh>作業任務二</vh></v>
 <v t="leo.20151006160323.1"><vh>作業任務三</vh></v>
 <v t="leo.20151006162301.1"><vh>作業任務四</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="amd.20150915211351.12"><vh>自評</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -1991,8 +1991,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自評 75 分 。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2030,10 +2030,10 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;h1&gt;下載 leo editor&lt;/h1&gt;
     &lt;p&gt;下載 leo editor，在github上點選"Download ZIP"。
     &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="https://github.com/leo-editor/leo-editor"&gt;leo-editor&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2242,7 +2242,7 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151006160246.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務二&lt;/h1&gt;
+    &lt;h1&gt;安裝LEO&lt;/h1&gt;
     &lt;p&gt;在cmd處，打指令
   
    1. pip install 「leo的clone網址」
